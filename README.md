@@ -42,7 +42,7 @@ A responsive product management dashboard built with React, TypeScript and the [
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone <https://github.com/codingsection202/product-dashboard.git>
 cd product-dashboard
 
 # 2. Install dependencies
