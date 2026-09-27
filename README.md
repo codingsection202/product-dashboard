@@ -3,7 +3,7 @@
 A responsive product management dashboard built with React, TypeScript and the [DummyJSON Products API](https://dummyjson.com/products). Users can browse, search, filter, sort, paginate, view and add products.
 
 ## 🚀 Live Demo
-> _Add your Vercel link here after deployment (Step 17)_
+> **[https://product-dashboard-fawn-rho.vercel.app](https://product-dashboard-fawn-rho.vercel.app)**
 
 ## ✨ Features
 
